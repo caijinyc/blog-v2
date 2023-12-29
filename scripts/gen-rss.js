@@ -65,18 +65,22 @@ async function generate() {
 
             const frontmatter = matter(content)
 
-            feed.item({
+            console.log('frontmatter.data.date', frontmatter.data.date)
+            const url = '/post' + item.relativePath
+            feed.addItem({
                 title: frontmatter.data.title,
-                url: '/post' + item.relativePath,
-                date: frontmatter.data.date,
-                description: frontmatter.data.description,
+                id: url,
+                link: url,
+                date: new Date(frontmatter.data.date),
+                description: frontmatter.data.description || '',
+                content: frontmatter.content,
                 categories: frontmatter.data.tag.split(', '),
                 author: frontmatter.data.author,
             })
         })
     )
 
-    await fs.writeFile('./public/feed.xml', feed.xml({indent: true}))
+    await fs.writeFile('./public/feed.xml', feed.rss2())
 }
 
 generate()
