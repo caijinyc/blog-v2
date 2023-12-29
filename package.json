@@ -2,10 +2,11 @@
   "private": true,
   "scripts": {
     "dev": "next",
-    "build": "node ./scripts/gen-rss.js && next build",
+    "build": "node scripts/gen-rss.js && next build",
     "start": "next start"
   },
   "dependencies": {
+    "feed": "^4.2.2",
     "gray-matter": "^4.0.3",
     "next": "latest",
     "nextra": "^2.0.0-beta.5",
