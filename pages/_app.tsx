@@ -4,7 +4,6 @@ import Head from 'next/head'
 import '../styles/main.css'
 
 export default function App({ Component, pageProps }: AppProps) {
-    console.log('Component', pageProps)
   return (
     <>
       <Head>
