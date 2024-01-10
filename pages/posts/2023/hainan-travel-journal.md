@@ -15,7 +15,7 @@ author: Jin
 
 刚下飞机就一个感觉，湿，太湿了，瞬间感觉全身湿透。习惯了北京的干热，刚来三亚是真有点适应不了，浑身黏糊糊的。
 
-## Day 1
+## Day 1 潜水
 
 ![住上了传说中的海景房](https://jsd.cdn.zzko.cn/gh/caijinyc/images@main/picx/IMG_5364.3bkkfh82wuu0.webp)
 
@@ -43,6 +43,8 @@ author: Jin
 
 真的很新鲜，很有意思，身边全是鱼，身子下面全是珊瑚，可惜今天的水稍稍有点浑浊，看不清。教练会问你要不要拍视频，680 一位，拍照 380，我的评价是，谁拍谁冤大头噢，啊哈哈哈，想发朋友圈的倒是可以试试，不过自己能拿个 Go Pro 我觉得也挺好。
 
+
+# D2 冲浪
 ![🏄‍♂️合影](https://jsd.cdn.zzko.cn/gh/caijinyc/images@main/picx/c26683f8698744f63e85c1b5de94f361.6hjd5un23sg0.webp)
 
 🏄‍♂️合影
@@ -64,6 +66,8 @@ author: Jin
 夜市摊，好吃！
 
 本地人的夜市摊，海南的炒粉，我吹爆，太好吃了。两块钱一个的生蚝，我吃爆，两天直接干了 50 个，吃到再也不想吃！
+
+## Day 3 瞎晃
 
 ![海南的椰子，不好喝！](https://jsd.cdn.zzko.cn/gh/caijinyc/images@main/picx/F9C5D09E-0E23-45C9-A6F8-E7707D03D5E9_1_105_c.4aucxncznm40.webp)
 
@@ -87,6 +91,8 @@ author: Jin
 
 最后两天一起玩的小伙伴忙着拍婚纱照去了，所以最后两天换了个好的酒店，直接开躺。还别说，贵点的酒店床就是舒服。酒店有泳池，可惜我不会，每天都忙着睡觉和吃饭了。
 
+## Day 4 瞎晃+1
+
 ![分界洲](https://jsd.cdn.zzko.cn/gh/caijinyc/images@main/picx/IMG_5376.5g6jlctv83c0.webp)
 
 分界洲
@@ -96,6 +102,8 @@ author: Jin
 山顶风景很好，快爬上去，没多高！拍拍照片，上山吹吹风就下山走人了，不玩项目的话感觉没啥意思，船票还得 118 一个人。
 
 卖的吃得都是旅游价，比岸上差不多贵 50%。
+
+## Day 5 回家找猫猫
 
 ![为什么都是十字网格呢？](https://jsd.cdn.zzko.cn/gh/caijinyc/images@main/picx/IMG_5397.5zlfwio9xlw0.webp)
 
