@@ -30,7 +30,7 @@ author: Jin
 
 当了 6 天司机，完全 GET 了开车技能。
 
-👉 [海南游记](./hainan-travel-journal.mdx)
+👉 [海南游记](./hainan-travel-journal)
 
 ![](https://jsd.cdn.zzko.cn/gh/caijinyc/images@main/20240110/IMG_5368.c8xsf6v271k.webp)
 ![](https://jsd.cdn.zzko.cn/gh/caijinyc/images@main/picx/DSC05597.54z4xunw3rs0.webp)
