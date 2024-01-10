@@ -4,7 +4,6 @@ date: 2022/08/26
 
 description: 最近给 fabric.js 写了一个辅助线功能，效果大概和 Figma 差不多，感觉挺有意思，本文简单总结一下。
 tag: fabric.js
-author: Jin
 ---
 
 # 实现 Figma 的辅助线功能

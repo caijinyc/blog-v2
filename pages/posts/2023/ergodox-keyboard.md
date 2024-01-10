@@ -5,7 +5,6 @@ date: 2023/05/05
 description: 分享一下使用分体键盘的体验，整理了一下优缺点以及我的感受。
 
 tag: 数码
-author: Jin
 ---
 
 上个月因为左手大拇指关节处疼地不行，导致用电脑非常难受，加上之前是因为这篇文章 [分体式键盘](https://reorx.com/blog/split-keyboards/) 被种草了  Ergodox，所以入坑了一把分体式键盘 Ergodox EZ。
