@@ -1,6 +1,5 @@
 const withNextra = require('nextra')({
-  theme: 'nextra-theme-blog',
-  themeConfig: './theme.config.js',
+  theme: './nextra-theme-blog/index.tsx',
   // optional: add `unstable_staticImage: true` to enable Nextra's auto image import
 })
 
